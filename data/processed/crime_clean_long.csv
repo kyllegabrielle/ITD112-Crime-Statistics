@@ -1,0 +1,361 @@
+region,year,indicator,value,is_national_total
+Philippines,2020,total_crime_incidents,394468,True
+Philippines,2021,total_crime_incidents,375731,True
+Philippines,2022,total_crime_incidents,379499,True
+Philippines,2023,total_crime_incidents,391423,True
+Philippines,2024,total_crime_incidents,380801,True
+Philippines,2020,total_crimes_solved,338703,True
+Philippines,2021,total_crimes_solved,320029,True
+Philippines,2022,total_crimes_solved,326771,True
+Philippines,2023,total_crimes_solved,348298,True
+Philippines,2024,total_crimes_solved,339852,True
+Philippines,2020,crime_solution_efficiency_pct,85.86,True
+Philippines,2021,crime_solution_efficiency_pct,85.15,True
+Philippines,2022,crime_solution_efficiency_pct,86.11,True
+Philippines,2023,crime_solution_efficiency_pct,88.98,True
+Philippines,2024,crime_solution_efficiency_pct,89.25,True
+Philippines,2020,average_monthly_crime_rate,29.92,True
+Philippines,2021,average_monthly_crime_rate,27.86,True
+Philippines,2022,average_monthly_crime_rate,28.14,True
+Philippines,2023,average_monthly_crime_rate,29.02,True
+Philippines,2024,average_monthly_crime_rate,27.28,True
+NCR,2020,total_crime_incidents,98367,False
+NCR,2021,total_crime_incidents,89610,False
+NCR,2022,total_crime_incidents,101598,False
+NCR,2023,total_crime_incidents,112965,False
+NCR,2024,total_crime_incidents,106152,False
+NCR,2020,total_crimes_solved,82733,False
+NCR,2021,total_crimes_solved,78271,False
+NCR,2022,total_crimes_solved,89960,False
+NCR,2023,total_crimes_solved,106359,False
+NCR,2024,total_crimes_solved,100238,False
+NCR,2020,crime_solution_efficiency_pct,84.11,False
+NCR,2021,crime_solution_efficiency_pct,87.35,False
+NCR,2022,crime_solution_efficiency_pct,88.55,False
+NCR,2023,crime_solution_efficiency_pct,94.15,False
+NCR,2024,crime_solution_efficiency_pct,94.43,False
+NCR,2020,average_monthly_crime_rate,58.45,False
+NCR,2021,average_monthly_crime_rate,50.49,False
+NCR,2022,average_monthly_crime_rate,57.25,False
+NCR,2023,average_monthly_crime_rate,63.65,False
+NCR,2024,average_monthly_crime_rate,61.49,False
+CAR,2020,total_crime_incidents,3535,False
+CAR,2021,total_crime_incidents,3024,False
+CAR,2022,total_crime_incidents,4014,False
+CAR,2023,total_crime_incidents,3772,False
+CAR,2024,total_crime_incidents,3696,False
+CAR,2020,total_crimes_solved,3016,False
+CAR,2021,total_crimes_solved,2372,False
+CAR,2022,total_crimes_solved,3294,False
+CAR,2023,total_crimes_solved,3131,False
+CAR,2024,total_crimes_solved,3036,False
+CAR,2020,crime_solution_efficiency_pct,85.32,False
+CAR,2021,crime_solution_efficiency_pct,78.44,False
+CAR,2022,crime_solution_efficiency_pct,82.06,False
+CAR,2023,crime_solution_efficiency_pct,83.01,False
+CAR,2024,crime_solution_efficiency_pct,82.14,False
+CAR,2020,average_monthly_crime_rate,15.71,False
+CAR,2021,average_monthly_crime_rate,5.7,False
+CAR,2022,average_monthly_crime_rate,7.56,False
+CAR,2023,average_monthly_crime_rate,7.11,False
+CAR,2024,average_monthly_crime_rate,16.06,False
+I - Ilocos Region,2020,total_crime_incidents,13774,False
+I - Ilocos Region,2021,total_crime_incidents,9277,False
+I - Ilocos Region,2022,total_crime_incidents,8541,False
+I - Ilocos Region,2023,total_crime_incidents,8399,False
+I - Ilocos Region,2024,total_crime_incidents,7909,False
+I - Ilocos Region,2020,total_crimes_solved,12287,False
+I - Ilocos Region,2021,total_crimes_solved,7337,False
+I - Ilocos Region,2022,total_crimes_solved,7025,False
+I - Ilocos Region,2023,total_crimes_solved,7056,False
+I - Ilocos Region,2024,total_crimes_solved,6561,False
+I - Ilocos Region,2020,crime_solution_efficiency_pct,89.2,False
+I - Ilocos Region,2021,crime_solution_efficiency_pct,79.09,False
+I - Ilocos Region,2022,crime_solution_efficiency_pct,82.25,False
+I - Ilocos Region,2023,crime_solution_efficiency_pct,84.01,False
+I - Ilocos Region,2024,crime_solution_efficiency_pct,82.96,False
+I - Ilocos Region,2020,average_monthly_crime_rate,20.97,False
+I - Ilocos Region,2021,average_monthly_crime_rate,13.89,False
+I - Ilocos Region,2022,average_monthly_crime_rate,12.78,False
+I - Ilocos Region,2023,average_monthly_crime_rate,12.57,False
+I - Ilocos Region,2024,average_monthly_crime_rate,11.65,False
+II - Cagayan Valley,2020,total_crime_incidents,15549,False
+II - Cagayan Valley,2021,total_crime_incidents,12707,False
+II - Cagayan Valley,2022,total_crime_incidents,7829,False
+II - Cagayan Valley,2023,total_crime_incidents,7077,False
+II - Cagayan Valley,2024,total_crime_incidents,7055,False
+II - Cagayan Valley,2020,total_crimes_solved,14036,False
+II - Cagayan Valley,2021,total_crimes_solved,10890,False
+II - Cagayan Valley,2022,total_crimes_solved,6440,False
+II - Cagayan Valley,2023,total_crimes_solved,5798,False
+II - Cagayan Valley,2024,total_crimes_solved,5998,False
+II - Cagayan Valley,2020,crime_solution_efficiency_pct,90.27,False
+II - Cagayan Valley,2021,crime_solution_efficiency_pct,85.7,False
+II - Cagayan Valley,2022,crime_solution_efficiency_pct,82.26,False
+II - Cagayan Valley,2023,crime_solution_efficiency_pct,81.93,False
+II - Cagayan Valley,2024,crime_solution_efficiency_pct,85.02,False
+II - Cagayan Valley,2020,average_monthly_crime_rate,34.47,False
+II - Cagayan Valley,2021,average_monthly_crime_rate,27.7,False
+II - Cagayan Valley,2022,average_monthly_crime_rate,17.06,False
+II - Cagayan Valley,2023,average_monthly_crime_rate,15.43,False
+II - Cagayan Valley,2024,average_monthly_crime_rate,14.95,False
+III - Central Luzon,2020,total_crime_incidents,40096,False
+III - Central Luzon,2021,total_crime_incidents,38417,False
+III - Central Luzon,2022,total_crime_incidents,37176,False
+III - Central Luzon,2023,total_crime_incidents,38406,False
+III - Central Luzon,2024,total_crime_incidents,36182,False
+III - Central Luzon,2020,total_crimes_solved,34057,False
+III - Central Luzon,2021,total_crimes_solved,31346,False
+III - Central Luzon,2022,total_crimes_solved,32639,False
+III - Central Luzon,2023,total_crimes_solved,35081,False
+III - Central Luzon,2024,total_crimes_solved,33027,False
+III - Central Luzon,2020,crime_solution_efficiency_pct,84.94,False
+III - Central Luzon,2021,crime_solution_efficiency_pct,81.59,False
+III - Central Luzon,2022,crime_solution_efficiency_pct,87.8,False
+III - Central Luzon,2023,crime_solution_efficiency_pct,91.34,False
+III - Central Luzon,2024,crime_solution_efficiency_pct,91.28,False
+III - Central Luzon,2020,average_monthly_crime_rate,27.35,False
+III - Central Luzon,2021,average_monthly_crime_rate,25.76,False
+III - Central Luzon,2022,average_monthly_crime_rate,24.93,False
+III - Central Luzon,2023,average_monthly_crime_rate,25.75,False
+III - Central Luzon,2024,average_monthly_crime_rate,22.75,False
+IV-A CALABARZON,2020,total_crime_incidents,50667,False
+IV-A CALABARZON,2021,total_crime_incidents,54010,False
+IV-A CALABARZON,2022,total_crime_incidents,52846,False
+IV-A CALABARZON,2023,total_crime_incidents,52599,False
+IV-A CALABARZON,2024,total_crime_incidents,49823,False
+IV-A CALABARZON,2020,total_crimes_solved,44639,False
+IV-A CALABARZON,2021,total_crimes_solved,46716,False
+IV-A CALABARZON,2022,total_crimes_solved,44340,False
+IV-A CALABARZON,2023,total_crimes_solved,46342,False
+IV-A CALABARZON,2024,total_crimes_solved,43236,False
+IV-A CALABARZON,2020,crime_solution_efficiency_pct,88.1,False
+IV-A CALABARZON,2021,crime_solution_efficiency_pct,86.5,False
+IV-A CALABARZON,2022,crime_solution_efficiency_pct,83.9,False
+IV-A CALABARZON,2023,crime_solution_efficiency_pct,88.1,False
+IV-A CALABARZON,2024,crime_solution_efficiency_pct,86.78,False
+IV-A CALABARZON,2020,average_monthly_crime_rate,26.9,False
+IV-A CALABARZON,2021,average_monthly_crime_rate,28.19,False
+IV-A CALABARZON,2022,average_monthly_crime_rate,27.58,False
+IV-A CALABARZON,2023,average_monthly_crime_rate,27.45,False
+IV-A CALABARZON,2024,average_monthly_crime_rate,24.03,False
+MIMAROPA,2020,total_crime_incidents,5691,False
+MIMAROPA,2021,total_crime_incidents,4468,False
+MIMAROPA,2022,total_crime_incidents,4961,False
+MIMAROPA,2023,total_crime_incidents,5573,False
+MIMAROPA,2024,total_crime_incidents,5348,False
+MIMAROPA,2020,total_crimes_solved,4711,False
+MIMAROPA,2021,total_crimes_solved,3263,False
+MIMAROPA,2022,total_crimes_solved,3739,False
+MIMAROPA,2023,total_crimes_solved,4085,False
+MIMAROPA,2024,total_crimes_solved,3856,False
+MIMAROPA,2020,crime_solution_efficiency_pct,82.78,False
+MIMAROPA,2021,crime_solution_efficiency_pct,73.03,False
+MIMAROPA,2022,crime_solution_efficiency_pct,75.37,False
+MIMAROPA,2023,crime_solution_efficiency_pct,73.3,False
+MIMAROPA,2024,crime_solution_efficiency_pct,72.1,False
+MIMAROPA,2020,average_monthly_crime_rate,14.7,False
+MIMAROPA,2021,average_monthly_crime_rate,11.34,False
+MIMAROPA,2022,average_monthly_crime_rate,12.59,False
+MIMAROPA,2023,average_monthly_crime_rate,14.15,False
+MIMAROPA,2024,average_monthly_crime_rate,12.94,False
+V - Bicol Region,2020,total_crime_incidents,18909,False
+V - Bicol Region,2021,total_crime_incidents,16059,False
+V - Bicol Region,2022,total_crime_incidents,17193,False
+V - Bicol Region,2023,total_crime_incidents,19553,False
+V - Bicol Region,2024,total_crime_incidents,20009,False
+V - Bicol Region,2020,total_crimes_solved,15656,False
+V - Bicol Region,2021,total_crimes_solved,12705,False
+V - Bicol Region,2022,total_crimes_solved,13876,False
+V - Bicol Region,2023,total_crimes_solved,16113,False
+V - Bicol Region,2024,total_crimes_solved,16827,False
+V - Bicol Region,2020,crime_solution_efficiency_pct,82.8,False
+V - Bicol Region,2021,crime_solution_efficiency_pct,79.11,False
+V - Bicol Region,2022,crime_solution_efficiency_pct,80.71,False
+V - Bicol Region,2023,crime_solution_efficiency_pct,82.41,False
+V - Bicol Region,2024,crime_solution_efficiency_pct,84.1,False
+V - Bicol Region,2020,average_monthly_crime_rate,24.96,False
+V - Bicol Region,2021,average_monthly_crime_rate,20.84,False
+V - Bicol Region,2022,average_monthly_crime_rate,22.31,False
+V - Bicol Region,2023,average_monthly_crime_rate,25.37,False
+V - Bicol Region,2024,average_monthly_crime_rate,25.7,False
+VI - Western Visayas,2020,total_crime_incidents,21674,False
+VI - Western Visayas,2021,total_crime_incidents,17568,False
+VI - Western Visayas,2022,total_crime_incidents,22605,False
+VI - Western Visayas,2023,total_crime_incidents,22853,False
+VI - Western Visayas,2024,total_crime_incidents,23678,False
+VI - Western Visayas,2020,total_crimes_solved,19541,False
+VI - Western Visayas,2021,total_crimes_solved,14647,False
+VI - Western Visayas,2022,total_crimes_solved,19388,False
+VI - Western Visayas,2023,total_crimes_solved,19833,False
+VI - Western Visayas,2024,total_crimes_solved,20953,False
+VI - Western Visayas,2020,crime_solution_efficiency_pct,90.16,False
+VI - Western Visayas,2021,crime_solution_efficiency_pct,83.37,False
+VI - Western Visayas,2022,crime_solution_efficiency_pct,85.77,False
+VI - Western Visayas,2023,crime_solution_efficiency_pct,86.79,False
+VI - Western Visayas,2024,crime_solution_efficiency_pct,88.49,False
+VI - Western Visayas,2020,average_monthly_crime_rate,22.01,False
+VI - Western Visayas,2021,average_monthly_crime_rate,17.54,False
+VI - Western Visayas,2022,average_monthly_crime_rate,22.56,False
+VI - Western Visayas,2023,average_monthly_crime_rate,22.81,False
+VI - Western Visayas,2024,average_monthly_crime_rate,23.25,False
+VII - Central Visayas,2020,total_crime_incidents,47864,False
+VII - Central Visayas,2021,total_crime_incidents,41676,False
+VII - Central Visayas,2022,total_crime_incidents,41960,False
+VII - Central Visayas,2023,total_crime_incidents,43080,False
+VII - Central Visayas,2024,total_crime_incidents,44107,False
+VII - Central Visayas,2020,total_crimes_solved,42952,False
+VII - Central Visayas,2021,total_crimes_solved,37322,False
+VII - Central Visayas,2022,total_crimes_solved,38486,False
+VII - Central Visayas,2023,total_crimes_solved,39827,False
+VII - Central Visayas,2024,total_crimes_solved,40635,False
+VII - Central Visayas,2020,crime_solution_efficiency_pct,89.74,False
+VII - Central Visayas,2021,crime_solution_efficiency_pct,89.55,False
+VII - Central Visayas,2022,crime_solution_efficiency_pct,91.72,False
+VII - Central Visayas,2023,crime_solution_efficiency_pct,92.45,False
+VII - Central Visayas,2024,crime_solution_efficiency_pct,92.13,False
+VII - Central Visayas,2020,average_monthly_crime_rate,49.52,False
+VII - Central Visayas,2021,average_monthly_crime_rate,42.39,False
+VII - Central Visayas,2022,average_monthly_crime_rate,42.67,False
+VII - Central Visayas,2023,average_monthly_crime_rate,43.81,False
+VII - Central Visayas,2024,average_monthly_crime_rate,42.63,False
+VIII - Eastern Visayas,2020,total_crime_incidents,9363,False
+VIII - Eastern Visayas,2021,total_crime_incidents,9183,False
+VIII - Eastern Visayas,2022,total_crime_incidents,9186,False
+VIII - Eastern Visayas,2023,total_crime_incidents,9406,False
+VIII - Eastern Visayas,2024,total_crime_incidents,11122,False
+VIII - Eastern Visayas,2020,total_crimes_solved,7731,False
+VIII - Eastern Visayas,2021,total_crimes_solved,7294,False
+VIII - Eastern Visayas,2022,total_crimes_solved,7424,False
+VIII - Eastern Visayas,2023,total_crimes_solved,7669,False
+VIII - Eastern Visayas,2024,total_crimes_solved,9395,False
+VIII - Eastern Visayas,2020,crime_solution_efficiency_pct,82.57,False
+VIII - Eastern Visayas,2021,crime_solution_efficiency_pct,79.43,False
+VIII - Eastern Visayas,2022,crime_solution_efficiency_pct,80.82,False
+VIII - Eastern Visayas,2023,crime_solution_efficiency_pct,81.53,False
+VIII - Eastern Visayas,2024,crime_solution_efficiency_pct,84.47,False
+VIII - Eastern Visayas,2020,average_monthly_crime_rate,16.14,False
+VIII - Eastern Visayas,2021,average_monthly_crime_rate,15.56,False
+VIII - Eastern Visayas,2022,average_monthly_crime_rate,15.56,False
+VIII - Eastern Visayas,2023,average_monthly_crime_rate,15.94,False
+VIII - Eastern Visayas,2024,average_monthly_crime_rate,19.11,False
+IX - Zamboanga Peninsula,2020,total_crime_incidents,10090,False
+IX - Zamboanga Peninsula,2021,total_crime_incidents,7687,False
+IX - Zamboanga Peninsula,2022,total_crime_incidents,7217,False
+IX - Zamboanga Peninsula,2023,total_crime_incidents,8434,False
+IX - Zamboanga Peninsula,2024,total_crime_incidents,9078,False
+IX - Zamboanga Peninsula,2020,total_crimes_solved,8464,False
+IX - Zamboanga Peninsula,2021,total_crimes_solved,6311,False
+IX - Zamboanga Peninsula,2022,total_crimes_solved,5870,False
+IX - Zamboanga Peninsula,2023,total_crimes_solved,6848,False
+IX - Zamboanga Peninsula,2024,total_crimes_solved,7469,False
+IX - Zamboanga Peninsula,2020,crime_solution_efficiency_pct,83.89,False
+IX - Zamboanga Peninsula,2021,crime_solution_efficiency_pct,82.1,False
+IX - Zamboanga Peninsula,2022,crime_solution_efficiency_pct,81.34,False
+IX - Zamboanga Peninsula,2023,crime_solution_efficiency_pct,81.2,False
+IX - Zamboanga Peninsula,2024,crime_solution_efficiency_pct,82.28,False
+IX - Zamboanga Peninsula,2020,average_monthly_crime_rate,21.27,False
+IX - Zamboanga Peninsula,2021,average_monthly_crime_rate,15.93,False
+IX - Zamboanga Peninsula,2022,average_monthly_crime_rate,14.96,False
+IX - Zamboanga Peninsula,2023,average_monthly_crime_rate,17.48,False
+IX - Zamboanga Peninsula,2024,average_monthly_crime_rate,18.3,False
+X - Northern Mindanao,2020,total_crime_incidents,15488,False
+X - Northern Mindanao,2021,total_crime_incidents,14738,False
+X - Northern Mindanao,2022,total_crime_incidents,15448,False
+X - Northern Mindanao,2023,total_crime_incidents,14952,False
+X - Northern Mindanao,2024,total_crime_incidents,14481,False
+X - Northern Mindanao,2020,total_crimes_solved,13085,False
+X - Northern Mindanao,2021,total_crimes_solved,12046,False
+X - Northern Mindanao,2022,total_crimes_solved,12448,False
+X - Northern Mindanao,2023,total_crimes_solved,12207,False
+X - Northern Mindanao,2024,total_crimes_solved,12039,False
+X - Northern Mindanao,2020,crime_solution_efficiency_pct,84.48,False
+X - Northern Mindanao,2021,crime_solution_efficiency_pct,81.73,False
+X - Northern Mindanao,2022,crime_solution_efficiency_pct,80.58,False
+X - Northern Mindanao,2023,crime_solution_efficiency_pct,81.64,False
+X - Northern Mindanao,2024,crime_solution_efficiency_pct,83.14,False
+X - Northern Mindanao,2020,average_monthly_crime_rate,25.27,False
+X - Northern Mindanao,2021,average_monthly_crime_rate,23.64,False
+X - Northern Mindanao,2022,average_monthly_crime_rate,24.78,False
+X - Northern Mindanao,2023,average_monthly_crime_rate,23.99,False
+X - Northern Mindanao,2024,average_monthly_crime_rate,22.5,False
+XI - Davao Region,2020,total_crime_incidents,19106,False
+XI - Davao Region,2021,total_crime_incidents,36196,False
+XI - Davao Region,2022,total_crime_incidents,28146,False
+XI - Davao Region,2023,total_crime_incidents,23730,False
+XI - Davao Region,2024,total_crime_incidents,22453,False
+XI - Davao Region,2020,total_crimes_solved,17290,False
+XI - Davao Region,2021,total_crimes_solved,34090,False
+XI - Davao Region,2022,total_crimes_solved,26611,False
+XI - Davao Region,2023,total_crimes_solved,22526,False
+XI - Davao Region,2024,total_crimes_solved,21160,False
+XI - Davao Region,2020,crime_solution_efficiency_pct,90.5,False
+XI - Davao Region,2021,crime_solution_efficiency_pct,94.18,False
+XI - Davao Region,2022,crime_solution_efficiency_pct,94.55,False
+XI - Davao Region,2023,crime_solution_efficiency_pct,94.93,False
+XI - Davao Region,2024,crime_solution_efficiency_pct,94.24,False
+XI - Davao Region,2020,average_monthly_crime_rate,29.88,False
+XI - Davao Region,2021,average_monthly_crime_rate,54.64,False
+XI - Davao Region,2022,average_monthly_crime_rate,42.48,False
+XI - Davao Region,2023,average_monthly_crime_rate,35.82,False
+XI - Davao Region,2024,average_monthly_crime_rate,33.45,False
+XII - SOCCSKSARGEN,2020,total_crime_incidents,11731,False
+XII - SOCCSKSARGEN,2021,total_crime_incidents,10474,False
+XII - SOCCSKSARGEN,2022,total_crime_incidents,10163,False
+XII - SOCCSKSARGEN,2023,total_crime_incidents,9399,False
+XII - SOCCSKSARGEN,2024,total_crime_incidents,7816,False
+XII - SOCCSKSARGEN,2020,total_crimes_solved,9372,False
+XII - SOCCSKSARGEN,2021,total_crimes_solved,8020,False
+XII - SOCCSKSARGEN,2022,total_crimes_solved,7914,False
+XII - SOCCSKSARGEN,2023,total_crimes_solved,7041,False
+XII - SOCCSKSARGEN,2024,total_crimes_solved,6100,False
+XII - SOCCSKSARGEN,2020,crime_solution_efficiency_pct,79.89,False
+XII - SOCCSKSARGEN,2021,crime_solution_efficiency_pct,76.57,False
+XII - SOCCSKSARGEN,2022,crime_solution_efficiency_pct,77.87,False
+XII - SOCCSKSARGEN,2023,crime_solution_efficiency_pct,74.91,False
+XII - SOCCSKSARGEN,2024,crime_solution_efficiency_pct,78.05,False
+XII - SOCCSKSARGEN,2020,average_monthly_crime_rate,21.14,False
+XII - SOCCSKSARGEN,2021,average_monthly_crime_rate,18.56,False
+XII - SOCCSKSARGEN,2022,average_monthly_crime_rate,18.01,False
+XII - SOCCSKSARGEN,2023,average_monthly_crime_rate,16.65,False
+XII - SOCCSKSARGEN,2024,average_monthly_crime_rate,13.34,False
+XIII - Caraga,2020,total_crime_incidents,10007,False
+XIII - Caraga,2021,total_crime_incidents,7893,False
+XIII - Caraga,2022,total_crime_incidents,8128,False
+XIII - Caraga,2023,total_crime_incidents,8369,False
+XIII - Caraga,2024,total_crime_incidents,9161,False
+XIII - Caraga,2020,total_crimes_solved,7375,False
+XIII - Caraga,2021,total_crimes_solved,5497,False
+XIII - Caraga,2022,total_crimes_solved,5791,False
+XIII - Caraga,2023,total_crimes_solved,6433,False
+XIII - Caraga,2024,total_crimes_solved,7266,False
+XIII - Caraga,2020,crime_solution_efficiency_pct,73.7,False
+XIII - Caraga,2021,crime_solution_efficiency_pct,69.64,False
+XIII - Caraga,2022,crime_solution_efficiency_pct,71.25,False
+XIII - Caraga,2023,crime_solution_efficiency_pct,76.87,False
+XIII - Caraga,2024,crime_solution_efficiency_pct,79.31,False
+XIII - Caraga,2020,average_monthly_crime_rate,29.49,False
+XIII - Caraga,2021,average_monthly_crime_rate,22.87,False
+XIII - Caraga,2022,average_monthly_crime_rate,23.55,False
+XIII - Caraga,2023,average_monthly_crime_rate,24.25,False
+XIII - Caraga,2024,average_monthly_crime_rate,25.51,False
+BARMM,2020,total_crime_incidents,2557,False
+BARMM,2021,total_crime_incidents,2744,False
+BARMM,2022,total_crime_incidents,2488,False
+BARMM,2023,total_crime_incidents,2856,False
+BARMM,2024,total_crime_incidents,2731,False
+BARMM,2020,total_crimes_solved,1758,False
+BARMM,2021,total_crimes_solved,1902,False
+BARMM,2022,total_crimes_solved,1526,False
+BARMM,2023,total_crimes_solved,1949,False
+BARMM,2024,total_crimes_solved,2056,False
+BARMM,2020,crime_solution_efficiency_pct,68.75,False
+BARMM,2021,crime_solution_efficiency_pct,69.31,False
+BARMM,2022,crime_solution_efficiency_pct,61.33,False
+BARMM,2023,crime_solution_efficiency_pct,68.24,False
+BARMM,2024,crime_solution_efficiency_pct,75.28,False
+BARMM,2020,average_monthly_crime_rate,4.9,False
+BARMM,2021,average_monthly_crime_rate,11.99,False
+BARMM,2022,average_monthly_crime_rate,10.87,False
+BARMM,2023,average_monthly_crime_rate,12.48,False
+BARMM,2024,average_monthly_crime_rate,4.51,False

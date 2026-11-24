@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# R session and editor files
+.RData
+.Rhistory
+.Rproj.user/
+
+# Node / Vite
+node_modules/
+dashboard/dist/
+dashboard/.vercel/
+
+# macOS / local settings
+.DS_Store
+.vscode/
+.env
+.env.*
+!.env.example

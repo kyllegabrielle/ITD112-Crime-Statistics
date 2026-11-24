@@ -1,0 +1,12 @@
+INITIAL DESCRIPTIVE RESULTS — NOT CAUSAL FINDINGS
+Source: supplied dataset mirrored from PSA OpenSTAT, Table 17.4 (PNP CIRAS), 2020–2024.
+Geographic entries: 17 regions and 1 Philippines national total; 90 region-year rows.
+National total incidents in 2020: 394,468.
+National total incidents in 2024: 380,801.
+Net change from 2020 to 2024: -3.46%.
+Regional scatterplot includes 85 region-year observations; repeated regions across years.
+Pooled Pearson r between rate and efficiency: 0.646 (descriptive only; pooled observations are not independent).
+Heatmap values are rates per 100,000 population; they are not incident counts.
+Cluster map uses 10 annual features (five rates, five solution-efficiency percentages),
+column-wise sample z-scores, Euclidean distance, and Ward linkage; it is NOT a geographic crime hotspot map.
+Source availability and regional reporting definitions should be checked in the original PSA metadata before final interpretation.
